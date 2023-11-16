@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**ahlamalkiyumi/ahlamalkiyumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hey, I'm Ahlam 👋
 
 - ⚡  I have a B.S in Biological Systems Engineering
 - 🔭 I’m currently working as a Data Science Freelancer 
