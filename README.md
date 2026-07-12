@@ -9,7 +9,7 @@
 🧬 Focused on metabolic diseases, mitochondrial dysfunction, and cancer metabolism
 
 
-💻 Skills: Python | R | MATLAB
+💻 Skills: Python | R 
 
 
 📊 Exploring biological data analysis, omics data, and data-driven insights
