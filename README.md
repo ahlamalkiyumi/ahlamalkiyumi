@@ -1,6 +1,6 @@
 ### Hey, I'm Ahlam 👋
 
-🎓 B.S. in Biological Systems Engineering with emphasis in Biomedical Engineering — University of Nebraska–Lincoln🇺🇸
+🎓 B.S. in Biological Systems Engineering with emphasis in Biomedical Engineering🇺🇸
 
 
 🔬 Interested in Computational Biology & Bioinformatics
