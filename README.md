@@ -6,13 +6,13 @@
 🔬 Interested in Computational Biology & Bioinformatics
 
 
-🧬 Focused on metabolic diseases, mitochondrial dysfunction, and cancer metabolism
+🧬 I’m curious about how cellular dysfunction drives disease especially in metabolism, mitochondrial biology, and cancer
 
 
 💻 Skills: Python | R 
 
 
-📊 Exploring biological data analysis, omics data, and data-driven insights
+📊 Working with biological and omics data to uncover patterns behind health and disease
 
 
 
