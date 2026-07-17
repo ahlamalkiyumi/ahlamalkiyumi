@@ -12,7 +12,7 @@
 💻 Skills: Python | R 
 
 
-📊 Working with biological and omics data to uncover patterns behind health and disease
+📊 Exploring RNA-seq and transcriptomic data to identify dysregulated pathways and uncover molecular mechanisms underlying disease
 
 
 
